@@ -1,1 +1,1 @@
-# Code Poetry Will
+Practice with repository management, version control, commits/reverts, etc.
